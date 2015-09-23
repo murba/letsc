@@ -1,0 +1,75 @@
+{
+	"speakers" : [{
+		"title" : "" ,
+		"when" : "",
+		"bywho" : "" ,
+		"shortname" : "" ,
+		"artwork" : [""] ,
+		"artattr" : "" ,
+		"url" : "",
+		"sourcename" : "" ,
+		"sourceurl" : "" ,
+		"sourcetitle" : "" ,
+		"tag" : ""
+	},{
+		"title" : "NASA's TES Satellite Instrument gives new insight into water cycle" ,
+		"when" : "September 3, 2015",
+		"bywho" : "Jet Propulsion Laboratory" ,
+		"shortname" : "watercycle" ,
+		"artwork" : ["images/news/watercycle.png"] ,
+		"artattr" : "National Severe Storms Laboratory" ,
+		"url" : "http://www.jpl.nasa.gov/news/news.php?feature=4711",
+		"sourcename" : "Jet Propulsion Laboratory | Caltech" ,
+		"sourceurl" : "http://www.jpl.nasa.gov/" ,
+		"sourcetitle" : "NASA |Jet Propulsion Laboratory | Caltech" ,
+		"tag" : "environment"
+	},{
+		"title" : "Construction approved for world's most powerful digital camera" ,
+		"when" : "August 31, 2015",
+		"bywho" : "Symmetry Magazine" ,
+		"shortname" : "mostpowerful_digitalcamera" ,
+		"artwork" : ["images/news/LSST_exploded-s_slac_national_accelerator_laboratory.jpg"] ,
+		"artattr" : "SLAC/Fermilab" ,
+		"url" : "http://www.symmetrymagazine.org/article/august-2015/construction-approved-for-worlds-most-powerful-digital-camera",
+		"sourcename" : "Symmetry Magazine" ,
+		"sourceurl" : "http://www.symmetrymagazine.org/" ,
+		"sourcetitle" : "Symmetry Magazine | A joint Fermilab / SLAC publication" ,
+		"tag" : "tech"
+	},{
+		"title" : "Hydrogen fuel cell for renewable power to Honolulu port" ,
+		"when" : "August 28, 2015",
+		"bywho" : "Patti Koning: Sandia Labs" ,
+		"shortname" : "waterenergy" ,
+		"artwork" : ["images/news/honolulu_waterenergy_sandia.png"] ,
+		"artattr" : "David Murphy" ,
+		"url" : "https://share.sandia.gov/news/resources/news_releases/honolulu_hydrogen/#.VfOeLhFVikp",
+		"sourcename" : "Sandia Labslabs" ,
+		"sourceurl" : "http://www.sandia.gov/index.html" ,
+		"sourcetitle" : "Sandia labs" ,
+		"tag" : "environment"
+	},{
+		"title" : "Research may solve lunar fire fountain mystery" ,
+		"when" : "August 24, 2015",
+		"bywho" : "Brown University" ,
+		"shortname" : "lunar_firefountain" ,
+		"artwork" : ["images/news/moonsurface_wikimedia.jpg"] ,
+		"artattr" : "Wikimedia" ,
+		"url" : "https://news.brown.edu/articles/2015/08/lunar",
+		"sourcename" : "Brown University" ,
+		"sourceurl" : "http://www.brown.edu/" ,
+		"sourcetitle" : "Brown University" ,
+		"tag" : "cosmos"
+	},{
+		"title" : "Dark Energy Survey finds more celestial neighbors" ,
+		"when" : "August 17, 2015",
+		"bywho" : "Symmetry Magazine" ,
+		"shortname" : "foundmore_celestialneighbors" ,
+		"artwork" : ["images/news/deepfield_gravlens_wikipedia.jpg"] ,
+		"artattr" : "Wikipedia" ,
+		"url" : "http://www.symmetrymagazine.org/article/august-2015/dark-energy-survey-finds-more-celestial-neighbors",
+		"sourcename" : "Symmetry Magazine" ,
+		"sourceurl" : "http://www.symmetrymagazine.org/" ,
+		"sourcetitle" : "Symmetry Magazine | A joint Fermilab / SLAC publication" ,
+		"tag" : "cosmos"
+	}]
+}

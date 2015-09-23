@@ -1,0 +1,41 @@
+{
+	"stories" : [{
+		"title" : "UCSF-led study shows why some targeted cancer drugs lose effectiveness" ,
+		"name" : "Cancer drugs lose effectiveness - UCSF" ,
+		"shortname" : "" ,
+		"source" : [{
+			"name" : "UCSF" ,
+			"url" : "" ,
+			}],
+		"author" : "Pete Farley" ,
+		"date" : "Feb 9, 2015" ,
+		"media" : "" ,
+		"tags" : [ "life" , "biology" , "UCSF" , "medicine" ] ,
+		"url" : ""
+	},{
+		"title" : "Mechanistic insights into spinal muscular atrophy suggest new path for treatment" ,
+		"name" : "" ,
+		"shortname" : "" ,
+		"source" : [{
+			"name" : "Cold Spring Harbor Laboratory" ,
+			"url" : "" ,
+			}],
+		"author" : "Cold Spring Harbor Laboratory" ,
+		"date" : "Jan 12, 2015" ,
+		"media" : "" ,
+		"tags" : ["biology" , "medicine" , "lab" , "health" , "Cold Spring Harbor La"] ,
+		"url" : ""
+	}],
+
+
+
+	"social" : [{
+		"shortname" : ,
+		"img" : ,
+		"url" : 
+	},{
+		"shortname" : ,
+		"img" : ,
+		"url" : 
+		}]
+}
